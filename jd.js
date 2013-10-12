@@ -1,5 +1,5 @@
 //my first code. thank you jd for inspriing me. :P
-confirm("Ready for the best coder's work ever? JK, yet still, ready?");
+confirm("Ready for the best story ever?");
 console.log ("You are walking in the park. Mind your own business, when suddly, a wildman jumps onto you!");
 
 var jd = prompt (" His name is jd. He looks cocky. Do you fight him?");
