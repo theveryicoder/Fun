@@ -7,10 +7,10 @@ if (pikaScore<25) {
 console.log ("OMG FUCK YOU. ~pika");
 }else {
 console.log ("eh. ~pika");
-}
 
 if (pikaScore<75) {
 console.log ("I can work with it. ~pika);
 }else{
 console.log (".....~pika);
+}
 }
