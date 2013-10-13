@@ -12,5 +12,5 @@ var cuddly = prompt("Is Cuddly awesome?");
 if (cuddly = "yes") {
     console.log("Why must you lie?");
 } else {
-    console.log("I knew it. Cuddly DOES sak.");
+    console.log("I knew it. Cuddly does suck.");
 }
