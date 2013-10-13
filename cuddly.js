@@ -9,7 +9,7 @@ if (userAge < 1) {
 console.log("You are about to be asked the worst question ever.");
 
 var cuddly = prompt("Is Cuddly awesome?");
-if (cuddly = "yes") {
+if (cuddly === "yes") {
     console.log("Why must you lie?");
 } else {
     console.log("I knew it. Cuddly does suck.");
