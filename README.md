@@ -1,4 +1,4 @@
 Fun
 ===
 
-A fun and stupid repository
+A fun and stupid repository.
